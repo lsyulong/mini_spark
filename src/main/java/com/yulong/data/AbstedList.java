@@ -1,4 +1,4 @@
-package com.yulong.spark.data;
+package com.yulong.data;
 
 /**
  * 用来实现LinkedList、ArrayList中共性的方法(共性的方法)

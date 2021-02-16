@@ -1,4 +1,4 @@
-package com.yulong.spark.data;
+package com.yulong.data;
 
 public class LinkedListTest {
 

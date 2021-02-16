@@ -1,4 +1,4 @@
-package com.yulong.spark.data;
+package com.yulong.data;
 
 /**
  * lsit 接口定义
