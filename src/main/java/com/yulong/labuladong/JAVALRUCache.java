@@ -1,4 +1,4 @@
-package com.yulong.spark.data;
+package com.yulong.labuladong;
 
 import java.util.LinkedHashMap;
 

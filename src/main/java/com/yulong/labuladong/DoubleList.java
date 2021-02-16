@@ -1,4 +1,4 @@
-package com.yulong.spark.data;
+package com.yulong.labuladong;
 
 public class DoubleList {
     private Node head, tail; //头尾两个指针

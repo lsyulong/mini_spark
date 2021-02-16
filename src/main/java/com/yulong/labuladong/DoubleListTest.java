@@ -1,4 +1,7 @@
-package com.yulong.spark.data;
+package com.yulong.labuladong;
+
+import com.yulong.labuladong.DoubleList;
+import com.yulong.labuladong.Node;
 
 public class DoubleListTest {
     public static void main(String[] args) {
