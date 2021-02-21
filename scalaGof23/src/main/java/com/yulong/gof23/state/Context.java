@@ -9,3 +9,4 @@ public interface Context {
 
     public abstract void recordLog(String msg);
 }
+

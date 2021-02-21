@@ -3,35 +3,40 @@
   <ID>JAVA</ID>
   <OriginalElement>com.yulong.gof23.state</OriginalElement>
   <nodes>
-    <node x="0.0" y="413.0">com.yulong.gof23.state.Main</node>
-    <node x="222.0" y="174.0">com.yulong.gof23.state.DayState</node>
-    <node x="480.0" y="0.0">com.yulong.gof23.state.Context</node>
-    <node x="110.99999999999999" y="0.0">com.yulong.gof23.state.State</node>
-    <node x="469.0" y="175.0">com.yulong.gof23.state.SafeFrame</node>
-    <node x="0.0" y="174.0">com.yulong.gof23.state.NightState</node>
+    <node x="-71.0" y="352.0">com.yulong.gof23.state.Main</node>
+    <node x="-71.0" y="113.0">com.yulong.gof23.state.DayState</node>
+    <node x="398.0" y="114.0">com.yulong.gof23.state.Context</node>
+    <node x="40.0" y="-61.0">com.yulong.gof23.state.State</node>
+    <node x="409.0" y="-61.0">com.yulong.gof23.state.SafeFrame</node>
+    <node x="151.0" y="113.0">com.yulong.gof23.state.NightState</node>
   </nodes>
   <notes />
   <edges>
-    <edge source="com.yulong.gof23.state.NightState" target="com.yulong.gof23.state.State">
-      <point x="0.0" y="-97.0" />
-      <point x="101.0" y="149.0" />
-      <point x="161.5" y="149.0" />
-      <point x="-50.5" y="62.0" />
-    </edge>
     <edge source="com.yulong.gof23.state.SafeFrame" target="com.yulong.gof23.state.Context">
-      <point x="2.8421709430404007E-14" y="-86.0" />
+      <point x="0.0" y="-86.0" />
       <point x="0.0" y="62.5" />
     </edge>
     <edge source="com.yulong.gof23.state.DayState" target="com.yulong.gof23.state.State">
       <point x="0.0" y="-97.0" />
-      <point x="323.0" y="149.0" />
-      <point x="262.5" y="149.0" />
-      <point x="50.50000000000003" y="62.0" />
+      <point x="252.0" y="88.0" />
+      <point x="191.5" y="88.0" />
+      <point x="50.5" y="62.0" />
+    </edge>
+    <edge source="com.yulong.gof23.state.NightState" target="com.yulong.gof23.state.State">
+      <point x="0.0" y="-97.0" />
+      <point x="30.0" y="88.0" />
+      <point x="90.5" y="88.0" />
+      <point x="-50.5" y="62.0" />
     </edge>
   </edges>
-  <settings layout="Hierarchic Group" zoom="0.7528089887640449" x="223.5" y="425.00000000000006" />
+  <settings layout="Hierarchic Group" zoom="1.0" x="362.0" y="234.0" />
   <SelectedNodes>
     <node>com.yulong.gof23.state.Main</node>
+    <node>com.yulong.gof23.state.DayState</node>
+    <node>com.yulong.gof23.state.Context</node>
+    <node>com.yulong.gof23.state.State</node>
+    <node>com.yulong.gof23.state.SafeFrame</node>
+    <node>com.yulong.gof23.state.NightState</node>
   </SelectedNodes>
   <Categories>
     <Category>Constructors</Category>

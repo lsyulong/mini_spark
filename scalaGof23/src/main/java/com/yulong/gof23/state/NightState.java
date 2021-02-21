@@ -38,3 +38,4 @@ public class NightState implements State {
         return "晚上";
     }
 }
+

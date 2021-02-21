@@ -40,3 +40,4 @@ public class DayState implements State {
         return "白天";
     }
 }
+

@@ -16,3 +16,4 @@ public interface State {
 
     public abstract void doPhone(Context context); //正常通话
 }
+
